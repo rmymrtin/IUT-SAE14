@@ -12,5 +12,6 @@
 	border: medium;
 }
 .diagramme{
-	justify-content: center;
+	text-align: center;
+	margin: auto;
 }
