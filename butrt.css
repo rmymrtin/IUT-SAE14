@@ -1,0 +1,9 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap'); /* Font Tiitre */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Oswald&display=swap'); /* Font texte */
+.titre{
+	text-align: center;
+	font-weight: 300;
+	margin-left: 10px;
+	font-family: 'Oswald', sans-serif;
+}
